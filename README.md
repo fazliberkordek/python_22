@@ -1,1 +1,1 @@
-# python_22 on google colab
+#GLobalAıHub Python Bootcamp notebook
