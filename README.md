@@ -1,1 +1,1 @@
-##GLobalAıHub Python Bootcamp notebook
+Python Bootcamp notebook
